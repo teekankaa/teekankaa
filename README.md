@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golf
 - 🌱 I’m currently learning to be a good human being
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ..
+- 📫 How to reach me?
 
 <!---
 teekankaa/teekankaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
